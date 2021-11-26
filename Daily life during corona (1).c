@@ -1,3 +1,8 @@
+/*
+    !COURSE TITLE: C Programming
+    !COURSE TEACHER: Saidur Rahman Kohinoor
+    !2'nd Semester
+*/
 include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
